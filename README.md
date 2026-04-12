@@ -17,4 +17,4 @@ The repository is organized by problem difficulty and name:
 - [ ] Maintain a consistent daily streak.
 
 ## 🤝 Contact
-**Sohaum Ghosh** | [LinkedIn](https://www.linkedin.com/in/sohaumghosh/)
+**Sohaum Ghosh** | [LinkedIn](https://www.linkedin.com/in/sohaum-ghosh/)
